@@ -33,5 +33,6 @@ O al menos simpre consigo la manera de hacerlo, sin importar nada, me las apaño
 ### Si quieres saber sobre mi de una manera más formal, ingresa a mi página web y contáctame 
 - 📍  Web Page: https://gisbeltorres.online
 - ⏹ LinkedIn: https://www.linkedin.com/in/gisbeltorres
+- 📫 Contáctame: contacto@gisbeltorres.online
 
 Toma, te regalo un taco: 🌮
