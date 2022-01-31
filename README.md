@@ -34,5 +34,6 @@ O al menos simpre consigo la manera de hacerlo, sin importar nada, me las apaño
 - 📍  Web Page: https://gisbeltorres.online
 - ⏹ LinkedIn: https://www.linkedin.com/in/gisbeltorres
 - 📫 Contáctame: contacto@gisbeltorres.online
+- WhatsApp: +584245289570
 
 Toma, te regalo un taco: 🌮
