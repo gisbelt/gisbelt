@@ -31,7 +31,7 @@ O al menos simpre consigo la manera de hacerlo, sin importar nada, me las apaño
 ▪️ Te lo dije, sé un poco sobre todo. Bueno, un poco no, mucho.. 💁‍♀️
 
 ### Si quieres saber sobre mi de una manera más formal, ingresa a mi página web y contáctame 
-- 📍  Web Page: https://gisbeltorres.online
+- 📍  Web Page: http://gisbeltorres.online
 - ⏹ LinkedIn: https://www.linkedin.com/in/gisbeltorres
 - 📫 Contáctame: contacto@gisbeltorres.online
 - WhatsApp: +584245289570
