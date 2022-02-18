@@ -28,7 +28,7 @@ O al menos simpre consigo la manera de hacerlo, sin importar nada, me las apaño
 - Actualmente me estoy capacitando con el diseño UX/UI con FIGMA
 - Y también sé un poco sobre PHP, Laravel, Wordpress, MySql, 
 ```
-▪️ Te lo dije, sé un poco sobre todo. Bueno, un poco no, mucho.. 💁‍♀️
+▪️ Te lo dije, sé un poco sobre todo. 💁‍♀️
 
 ### Si quieres saber sobre mi de una manera más formal, ingresa a mi página web y contáctame 
 - 📍  Web Page: http://gisbeltorres.online
