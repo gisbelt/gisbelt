@@ -24,9 +24,10 @@ O al menos simpre consigo la manera de hacerlo, sin importar nada, me las apaño
 ▪️ Me encanta todo el mundo del frontend y diseño web 🤓
 ```
 - Llevo muchos años aprendiendo de manera autodidacta sobre:
-- CSS, HTML, Bootstrap, JavaScript, Jquery, VueJS, Angular
+- CSS, HTML, Bootstrap, JavaScript, Jquery, AJAX, VueJS, REACT
 - Actualmente me estoy capacitando con el diseño UX/UI con FIGMA
 - Y también sé un poco sobre PHP, Laravel, Wordpress, MySql, 
+- Plus: AWS
 ```
 ▪️ Te lo dije, sé un poco sobre todo. 💁‍♀️
 
