@@ -11,17 +11,17 @@ I really do! I always find a way to solve anything no matter what.
 
 ### Let's talk about my skills:
 
-▪️ I SPEAK ENGLISH!
-```
-- At least at an intermediate level.
-- It's not much but it's honest work 🤪. 
-```
 ▪️ I'm a frontend developer and web designer.
 ```
 - I'm always learning about CSS3, HTML5, Bootstrap, Javascript, Jquery, Ajax..
 - And nowadays about new technologies like React and VueJs.
 - I also know a bit about PHP, Laravel, Wordpress, MySql, Figma, Git, Github, AWS and Bash. 🤓
 - Plus: I'm VERY good in the world of free software (Linux)
+```
+▪️ I SPEAK ENGLISH!
+```
+- At least at an intermediate level.
+- It's not much but it's honest work 🤪. 
 ```
 ▪️ And last but not least, please hire me (but you know, remotely). 💁‍♀️
 
