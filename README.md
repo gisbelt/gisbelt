@@ -3,7 +3,6 @@
 ▪️ I'll tell you a little about myself 💙
 ```
 - I am passionate about tech and its new innovations. 
-- Who wouldn't like to have someone passionate about tech in their team?
 ```
 🤸‍♀️ Fun fact: I have an incredible virtue and the thing is that I always solve everything, 
 I really do! I always find a way to solve anything no matter what.
@@ -12,7 +11,7 @@ I really do! I always find a way to solve anything no matter what.
 
 ▪️ I'm a frontend developer and web designer... or so I try
 ```
-- I'm always learning about CSS3, HTML5, Bootstrap, Tailwind, Javascript, TypeScript, Jquery, Ajax..
+- I'm always learning about Javascript, Typescript, CSS3, HTML5, Bootstrap, Tailwind..
 - And nowadays about new technologies like React, NextJs, VueJs, Firebase, MongoDB, etc..
 - I also know a bit about PHP, Laravel, Wordpress, MySql, Git, Github, AWS and Bash. 🤓
 - Plus: I'm VERY good in the world of Linux
