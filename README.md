@@ -24,7 +24,7 @@ I really do! I always find a way to solve anything no matter what.
 ▪️ And last but not least, let's work together (but you know, remotely). 💁‍♀️
 
 ### If you wanna know about me in a more formal way, go to my website and contact me. 
-- 📍  Web Page: https://gisbeltorres.netlify.app/
+- 📍  Web Page: https://gisbeltorres.tech
 - ⏹ LinkedIn: https://www.linkedin.com/in/gisbeltorres
 - 📫 Contact me: contacto@gisbeltorres.online
 
