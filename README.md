@@ -4,10 +4,7 @@
 ```
 - I am passionate about tech and its new innovations. 
 ```
-🤸‍♀️ Fun fact: I have an incredible virtue and the thing is that I always solve everything, 
-I really do! I always find a way to solve anything no matter what.
-
-### Let's talk about my skills:
+### Let's talk about my skills 🤸‍:
 
 ▪️ I'm a frontend developer and web designer... or so I try
 ```
