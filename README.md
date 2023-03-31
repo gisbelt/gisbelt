@@ -19,8 +19,8 @@
 
 ## And last but not least, let's work together (but you know, remotely). 💁‍♀️
 
-## Connect with me:
-### 🌐 Socials:
+# Connect with me:
+## 🌐 Socials:
 - [![Portfolio](https://gisbeltorres.tech/assets/images/portfolio.svg)](https://gisbeltorres.tech) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gisbeltorres) 
 - 📫 Contact me: contacto@gisbeltorres.online
