@@ -23,7 +23,7 @@
 ## 🌐 Socials:
 - [![Portfolio](https://gisbeltorres.tech/assets/images/portfolio.svg)](https://gisbeltorres.tech) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gisbeltorres) 
-- 📫 Contact me: contacto@gisbeltorres.online
+- 📫 Contact me: contacto@gisbeltorres.tech
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gisbelt&icon=0&color=0)](https://visitcount.itsvg.in)
