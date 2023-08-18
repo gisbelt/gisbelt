@@ -21,7 +21,8 @@
 
 # Connect with me:
 ## 🌐 Socials:
-- [![Portfolio](https://gisbeltorres.tech/assets/images/portfolio.svg)](https://gisbeltorres.tech) 
+- [![Portfolio](https://gisbeltorres.tech/assets/images/portfolio.svg)](https://gisbeltorres.tech)
+- [![Discord Direct Message](https://img.shields.io/badge/Discord-2D425E?style=flat&logo=discord&logoColor=white)](https://discord.com/users/884520706950430750)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gisbeltorres) 
 - 📫 Contact me: contacto@gisbeltorres.tech
 
