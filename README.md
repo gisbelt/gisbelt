@@ -21,10 +21,10 @@
 
 # Connect with me:
 ## 🌐 Socials:
-- [![Portfolio](https://gisbeltorres.tech/assets/images/portfolio.svg)](https://gisbeltorres.tech)
+- [![Portfolio](https://glorenita.dev/assets/images/portfolio.svg)](https://glorenita.dev)
 - [![Discord Direct Message](https://img.shields.io/badge/Discord-2D425E?style=flat&logo=discord&logoColor=white)](https://discord.com/users/884520706950430750)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gisbeltorres) 
-- 📫 Contact me: contacto@gisbeltorres.tech
+- 📫 Contact me: gisbeltq@gmail.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gisbelt&icon=0&color=0)](https://visitcount.itsvg.in)
